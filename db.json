@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Thien DA SUA SO 2",
+      "username": "vinhprovip",
+      "email": "vinh@gmail.com",
+      "phone": "01554545651"
+    },
+    {
+      "id": 3,
+      "name": "Manh",
+      "username": "manhphiphai",
+      "email": "manhphiphai@gmail.com",
+      "phone": "01234564789"
+    },
+    {
+      "id": 4,
+      "name": "Tan",
+      "username": "TanDMG",
+      "email": "duytan@gmail.com",
+      "phone": "01234567890"
+    },
+    {
+      "id": 5,
+      "name": "Hop",
+      "username": "hoptrader",
+      "email": "hoptrader@gmail.com",
+      "phone": "09876543210"
+    },
+    {
+      "name": "Thien",
+      "id": 6,
+      "username": "thienn",
+      "email": "thiennn@fpt.edu.vn",
+      "phone": "03448913211"
+    },
+    {
+      "name": "Thie8777",
+      "username": "thien777n",
+      "email": "thiennn777@fpt.edu.vn",
+      "phone": "03448913211",
+      "id": 7
+    },
+    {
+      "name": "Thien33",
+      "id": 8
+    }
+  ]
+}
